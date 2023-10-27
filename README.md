@@ -21,8 +21,10 @@ In this repository, I have included two separate projects:
 - Python packages: `mysql-connector-python`
 
 Install the required Python packages with the following command:
+
 ```bash
 pip install mysql-connector-python
+
 Project Description
 This project is a database management system for a restaurant named "Little Lemon." It includes Python code and Jupyter notebooks for managing a MySQL database. The project consists of the following components:
 
