@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+# Comment the next line if you want to check in your
+# node_modules folder
+# (Make sure it's not ignored or tracked by other VCS tools)
+# https://github.com/npm/npm/blob/HEAD/LICENSE
+# https://github.com/yarnpkg/yarn/blob/master/LICENSE
+package-lock.json
+yarn.lock
+.pnp/
+.pnp.js
+.pnp.cjs
+
+# Testing
+coverage/
+
+# Output
+build/
+dist/
+out/
+*.log
+*.pid
+*.seed
+*.pid.lock
