@@ -76,21 +76,23 @@ Clone the repository:
 
   ```bash
   git clone https://github.com/tesfaymebre/blog-website.git
-
+  ```
 Change to the project directory:
 
   ```bash
   cd blog-website
-
+  ```
 Install the dependencies:
 
   ```bash
   npm install
+```
 
 Start the application:
 
   ```bash
   node app.js
+```
 
 Usage
 Open your web browser and navigate to http://localhost:3000 to access the home page of the blog website.
