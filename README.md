@@ -22,8 +22,8 @@ In this repository, I have included two separate projects:
 
 Install the required Python packages with the following command:
 
-```bash
-pip install mysql-connector-python
+  ```bash
+  pip install mysql-connector-python
 
 Project Description
 This project is a database management system for a restaurant named "Little Lemon." It includes Python code and Jupyter notebooks for managing a MySQL database. The project consists of the following components:
@@ -73,22 +73,23 @@ MongoDB installed and running on mongodb://127.0.0.1:27017.
 Installation
 Clone the repository:
 
-```bash
-git clone https://github.com/tesfaymebre/blog-website.git
+  ```bash
+  git clone https://github.com/tesfaymebre/blog-website.git
+
 Change to the project directory:
 
-```bash
-cd blog-website
+  ```bash
+  cd blog-website
 
 Install the dependencies:
 
-```bash
-npm install
+  ```bash
+  npm install
 
 Start the application:
 
-```bash
-node app.js
+  ```bash
+  node app.js
 
 Usage
 Open your web browser and navigate to http://localhost:3000 to access the home page of the blog website.
