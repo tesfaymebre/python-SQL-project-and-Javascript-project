@@ -75,7 +75,7 @@ Installation
 Clone the repository:
 
   ```bash
-  git clone https://github.com/tesfaymebre/blog-website.git
+  git clone https://github.com/tesfaymebre/python-SQL-project-and-Javascript-project.git
   ```
 Change to the project directory:
 
