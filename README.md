@@ -58,15 +58,15 @@ GuestStatus: Retrieves guest status based on employee roles.
 BasicSalesReport: Generates a basic sales report.
 These stored procedures enhance the functionality of the database and facilitate data analysis.
 
-2. Blog Website
+## 2. Blog Website
 This is a simple blog website built using Node.js, Express.js, EJS, MongoDB, HTML/CSS, Bootstrap...
 
-Table of Contents
-Prerequisites
-Installation
-Usage
-Project Structure
-Prerequisites
+### Table of Contents
+- Prerequisites
+- Installation
+- Usage
+- Project Structure
+- Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 Node.js and npm installed.
